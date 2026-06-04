@@ -1,0 +1,3 @@
+/Users/nargizyan/Desktop/Picsart/Playground/raylib/snake/cmake-build-debug/CMakeFiles/Snake.dir
+/Users/nargizyan/Desktop/Picsart/Playground/raylib/snake/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nargizyan/Desktop/Picsart/Playground/raylib/snake/cmake-build-debug/CMakeFiles/rebuild_cache.dir

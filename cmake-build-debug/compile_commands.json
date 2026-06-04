@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/nargizyan/Desktop/Picsart/Playground/raylib/snake/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/nargizyan/Desktop/Picsart/Playground/raylib/snake -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -Wall -Wextra -Wpedantic -o CMakeFiles/Snake.dir/main.cpp.o -c /Users/nargizyan/Desktop/Picsart/Playground/raylib/snake/main.cpp",
+  "file": "/Users/nargizyan/Desktop/Picsart/Playground/raylib/snake/main.cpp",
+  "output": "/Users/nargizyan/Desktop/Picsart/Playground/raylib/snake/cmake-build-debug/CMakeFiles/Snake.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/nargizyan/Desktop/Picsart/Playground/raylib/snake/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/nargizyan/Desktop/Picsart/Playground/raylib/snake -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -Wall -Wextra -Wpedantic -o CMakeFiles/Snake.dir/Food.cpp.o -c /Users/nargizyan/Desktop/Picsart/Playground/raylib/snake/Food.cpp",
+  "file": "/Users/nargizyan/Desktop/Picsart/Playground/raylib/snake/Food.cpp",
+  "output": "/Users/nargizyan/Desktop/Picsart/Playground/raylib/snake/cmake-build-debug/CMakeFiles/Snake.dir/Food.cpp.o"
+},
+{
+  "directory": "/Users/nargizyan/Desktop/Picsart/Playground/raylib/snake/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/nargizyan/Desktop/Picsart/Playground/raylib/snake -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -Wall -Wextra -Wpedantic -o CMakeFiles/Snake.dir/Game.cpp.o -c /Users/nargizyan/Desktop/Picsart/Playground/raylib/snake/Game.cpp",
+  "file": "/Users/nargizyan/Desktop/Picsart/Playground/raylib/snake/Game.cpp",
+  "output": "/Users/nargizyan/Desktop/Picsart/Playground/raylib/snake/cmake-build-debug/CMakeFiles/Snake.dir/Game.cpp.o"
+},
+{
+  "directory": "/Users/nargizyan/Desktop/Picsart/Playground/raylib/snake/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/nargizyan/Desktop/Picsart/Playground/raylib/snake -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -Wall -Wextra -Wpedantic -o CMakeFiles/Snake.dir/Includes.cpp.o -c /Users/nargizyan/Desktop/Picsart/Playground/raylib/snake/Includes.cpp",
+  "file": "/Users/nargizyan/Desktop/Picsart/Playground/raylib/snake/Includes.cpp",
+  "output": "/Users/nargizyan/Desktop/Picsart/Playground/raylib/snake/cmake-build-debug/CMakeFiles/Snake.dir/Includes.cpp.o"
+},
+{
+  "directory": "/Users/nargizyan/Desktop/Picsart/Playground/raylib/snake/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/nargizyan/Desktop/Picsart/Playground/raylib/snake -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -Wall -Wextra -Wpedantic -o CMakeFiles/Snake.dir/Snake.cpp.o -c /Users/nargizyan/Desktop/Picsart/Playground/raylib/snake/Snake.cpp",
+  "file": "/Users/nargizyan/Desktop/Picsart/Playground/raylib/snake/Snake.cpp",
+  "output": "/Users/nargizyan/Desktop/Picsart/Playground/raylib/snake/cmake-build-debug/CMakeFiles/Snake.dir/Snake.cpp.o"
+}
+]
