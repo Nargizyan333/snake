@@ -1,0 +1,52 @@
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+cmake-build-*/
+out/
+
+# Compiled output
+bin/
+*.exe
+*.out
+*.app
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+
+# Ninja
+.ninja_deps
+.ninja_log
+build.ninja
+
+# IDE – JetBrains / CLion
+.idea/
+
+# IDE – VS Code
+.vscode/
+
+# IDE – Xcode
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserstate
+DerivedData/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
